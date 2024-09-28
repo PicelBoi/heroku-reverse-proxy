@@ -5,10 +5,10 @@
 		"reverse proxy",
 		"nginx"
 	],
-	"repository": "https://github.com/octoberswimmer/heroku-reverse-proxy",
+	"repository": "https://github.com/picelboi/heroku-reverse-proxy",
 	"buildpacks": [
 		{
-			"url": "http://github.com/octoberswimmer/heroku-buildpack-nginx.git"
+			"url": "http://github.com/picelboi/heroku-buildpack-nginx.git"
 		}
 	],
 	"env": {
